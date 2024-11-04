@@ -1,0 +1,29 @@
+
+/* .size-70{
+    width: 50%px;
+    border:1px solid;
+} */
+#header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    margin: 0px 80px;
+  
+  }
+  #header-Con{
+    background-color: brown;
+  
+  }
+  #row2-Hea{
+    display: flex;
+  align-items: center;
+    gap: 40px;
+    color: white;
+  }
+  #row2-Hea button{
+    border-radius: 6px;
+    height: 30px;
+    width: 80px;
+  
+  }

@@ -1,0 +1,39 @@
+
+#footer-Con{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  
+  }
+  #nav-UL{
+    text-decoration: none;
+    list-style-type: none;
+    
+    display: flex;
+  
+    justify-content: space-evenly;
+   position: relative;
+  }
+   li{
+
+    margin:0px 20px;
+    padding:0px 10px;
+  
+
+  }
+  a:link,a:visited,a:active{
+     text-decoration: none;
+     color: aliceblue;
+
+  }
+
+  Router{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+  }
+  .active{
+    text-decoration: none;
+    font-weight: 900;
+    font-size: larger;
+  }

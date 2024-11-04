@@ -1,0 +1,22 @@
+
+#root-Con{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+ 
+}
+/* #main-Con1{
+  display: flex;
+    margin: 0px 40px;
+    width: auto;
+  height: 500px;
+  gap: 10px;
+}
+.size-70{
+  width: 70%;
+  border:1px solid;
+}
+.size-30{
+  width: 30%;
+  border:1px solid;
+} */

@@ -1,0 +1,86 @@
+/* #header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  margin: 0px 80px;
+
+}
+#header-Con{
+  background-color: brown;
+
+}
+#row2-Hea{
+  display: flex;
+align-items: center;
+  gap: 40px;
+  color: white;
+}
+#row2-Hea button{
+  border-radius: 6px;
+  height: 30px;
+  width: 80px;
+
+} */
+/* #root-Con{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+#main-Con1{
+  display: flex;
+    margin: 0px 40px;
+    width: auto;
+  height: 500px;
+  gap: 10px;
+}
+.size-70{
+  width: 70%;
+  border:1px solid;
+}
+.size-30{
+  width: 30%;
+  border:1px solid;
+} */
+
+
+
+ /* Footer Styless */
+/* #footer-Con{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
+#nav-UL{
+  text-decoration: none;
+  list-style-type: none;
+  
+  display: flex;
+
+  justify-content: space-between;
+  gap: 20px;
+  
+}
+Router{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+}
+.active{
+  text-decoration: none;
+  font-weight: 900;
+  font-size: larger;
+} */
+/* #inputCon{
+  background-color: #aeaeae;
+  height: 400px;
+  width: 100%;
+} */
+input{
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+
+  font-size: large;
+}

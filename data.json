@@ -1,0 +1,19 @@
+{
+    "people":[
+        {
+            "name":"ramakrishna",
+            "age":23
+
+        },
+        {
+            "name":"manoj",
+            "age":24
+
+        }, {
+            "name":"swarna",
+            "age":25
+
+        }
+    ]
+
+}

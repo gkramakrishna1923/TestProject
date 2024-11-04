@@ -1,0 +1,12 @@
+#image-Con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background-size: cover;
+}
+#Para{
+    font-size: 20px;
+    background: #efefef;
+    color: #efefef;
+}
